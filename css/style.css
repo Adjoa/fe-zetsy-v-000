@@ -35,12 +35,22 @@ h2 {
   color: #6f7f7A;
 }
 
+header {
+  /*margin-bottom: 1em;*/
+  padding-bottom: 1em;
+}
+
 header a {
   color: #98ada6;
 }
 
 header a:hover {
   color: #6f7f7A;
+}
+
+hr {
+  border-style: solid;
+  border-color: #cccccc;
 }
 
 header img {
