@@ -38,7 +38,8 @@ h2 {
 #banner {
   width: 960px;
   margin: 0 auto;
-  height: 6em;
+  /*height: 6em;*/
+  height: 20%;
 }
 
 header a {
