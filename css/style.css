@@ -28,6 +28,7 @@ a {
 h1 {
   font-family: Baskerville;
   font-size: 5em;
+  height: 6em;
 }
 
 h2 {
@@ -35,11 +36,11 @@ h2 {
   color: #6f7f7A;
 }
 
-#banner {
+/*#banner {
   width: 960px;
   margin: 0 auto;
   height: 6em;
-}
+}*/
 
 header a {
   color: #98ada6;
