@@ -66,6 +66,10 @@ header img {
   text-decoration: underline;
 }
 
+#press {
+  margin-bottom: 20px;
+}
+
 #press img {
   border: thick solid #cccccc;
 }
